@@ -1,2 +1,2 @@
 # time-tracking-app
-# do 'npm i' to run the project.
+do 'npm i' to run the project.
